@@ -2,6 +2,8 @@
 """
 Finite Elements Coursework for Simulation and Modelling Assignment #2 2016
 
+Change DK
+
 README:
 There are two classes, FiniteElements and the assosciated FiniteElementsTest class.
 
